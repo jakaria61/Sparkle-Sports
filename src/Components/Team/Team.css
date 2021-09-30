@@ -1,0 +1,9 @@
+.team-container{
+    border: 1px solid pink;
+    border-radius:10px;
+    margin: 10px;
+    background-color:#eee;
+}
+.regular-button{
+    margin-bottom: 10px;
+}

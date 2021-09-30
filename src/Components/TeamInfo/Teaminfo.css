@@ -1,0 +1,21 @@
+.info-container{
+    background-color:rgba(108, 219, 223, 0.76);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    border-radius:10px;
+    padding: 30px;
+    
+}
+.team-img img{
+    width:300px;
+}
+.information{
+    line-height: 15px;
+    padding:10px;
+}
+.details-contain{
+    background-color:#eee;
+    padding: 100px;
+}
